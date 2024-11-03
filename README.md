@@ -1,2 +1,2 @@
-# Continual Relation Extraction for Knowledge Graph Completeness
+## Continual Relation Extraction for Knowledge Graph Completeness
 
