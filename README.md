@@ -10,7 +10,7 @@
   <a href="https://huggingface.co/spaces/Sefika/continual-learning"><img src="https://img.shields.io/badge/Hugging%20Face-KGC%20Space-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="KGC Hugging Face Space"></a>
 </p>
 
-> A systematic literature review and paper catalog for **Continual Relation Extraction (CRE)** and **Knowledge Graph Completion (KGC)**.
+> A systematic literature review and paper catalog for **Continual Relation Extraction (CRE)** and **Knowledge Graph Completion (KGC)**. Papers are selected based on search terms in 🤗 Spaces. Please check them. 
 
 ## 🧭 Explore the collection
 
