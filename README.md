@@ -1,4 +1,4 @@
-# 🧠 Continual Relation Extraction and KGC
+# 🧠 Continual Relation Extraction and Knowledge Graph Completion
 
 ### A curated literature collection on continual learning, relation extraction, and knowledge graph completion
 
