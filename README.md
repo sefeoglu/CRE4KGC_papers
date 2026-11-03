@@ -1,4 +1,4 @@
-# 🧠 Continual Relation Extraction for Knowledge Graph Completion
+# 🧠 Continual Relation Extraction and KGC
 
 ### A curated literature collection on continual learning, relation extraction, and knowledge graph completion
 
@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/Research%20papers-60-2563EB?style=for-the-badge" alt="60 research papers">
   <img src="https://img.shields.io/badge/Surveys-29-7C3AED?style=for-the-badge" alt="29 surveys">
   <img src="https://img.shields.io/badge/Coverage-2019--2024-059669?style=for-the-badge" alt="Coverage: 2019 to 2024">
+  <a href="https://huggingface.co/spaces/Sefika/continual-relation-extraction"><img src="https://img.shields.io/badge/Hugging%20Face-CRE%20Space-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Continual Relation Extraction Hugging Face Space"></a>
+  <a href="https://huggingface.co/spaces/Sefika/kgc"><img src="https://img.shields.io/badge/Hugging%20Face-KGC%20Space-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="KGC Hugging Face Space"></a>
 </p>
 
 > A systematic literature review and paper catalog for **Continual Relation Extraction (CRE)** and **Knowledge Graph Completion (KGC)**.
