@@ -1,19 +1,38 @@
-## Continual Relation Extraction for Knowledge Graph Completion
+# 🧠 Continual Relation Extraction for Knowledge Graph Completion
 
-# Systematic Literature Review — Paper Catalog
+### A curated literature collection on continual learning, relation extraction, and knowledge graph completion
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Research%20papers-60-2563EB?style=for-the-badge" alt="60 research papers">
+  <img src="https://img.shields.io/badge/Surveys-29-7C3AED?style=for-the-badge" alt="29 surveys">
+  <img src="https://img.shields.io/badge/Coverage-2019--2024-059669?style=for-the-badge" alt="Coverage: 2019 to 2024">
+</p>
+
+> A systematic literature review and paper catalog for **Continual Relation Extraction (CRE)** and **Knowledge Graph Completion (KGC)**.
+
+## 🧭 Explore the collection
+
+| Collection | Topics | Papers |
+|:--|:--|--:|
+| [📘 Research papers](#research-papers) | Continual Learning (CL), Continual Relation Extraction (CRE), Knowledge Graph Completion (KGC), and their intersection | 60 |
+| [📙 Surveys & reviews](#surveys-and-reviews) | Relation Extraction (RE), KGC, CRE, and Continual Learning | 29 |
+
+## 📊 At a glance
+
+**Coverage:** 2019–2024 · **Added:** 6 papers after August 2024
+
+| Topic | Research papers | Surveys |
+|:--|--:|--:|
+| 🟩 Continual Learning (CL) | 19 | 3 |
+| 🟦 Continual Relation Extraction (CRE) | 19 | 3 |
+| 🟧 Knowledge Graph Completion | 16 | 3 |
+| 🟪 KGC + CRE | 6 | — |
+| 🟥 Relation Extraction (RE) | — | 20 |
+
+## 📘 Research papers
 
 
-## Overview
-**Note**: From 2019 to 2024. We added 6 new papers to the list after August 2024.
-
-
-- **selected_researchpapers_rqs**: 60 papers (CL: 19, CRE: 19, KG completeness: 16, KGC and CRE: 6)
-- **selected survey**: 29 papers (RE: 20, KG completeness: 3, CRE: 3, CL: 3)
-
-## selected_researchpapers_rqs
-
-
-### Category: CL
+### 🟩 Continual Learning (CL)
 
 
 #### 1. A Scalable Framework for Multilevel Streaming Data Analytics using Deep Learning
@@ -169,7 +188,7 @@
 - **Platform:** ACM
 - **link:** [Open paper](https://dl.acm.org/doi/abs/10.1145/3459104.3459198?casa_token=jBsD_hLDFvwAAAAA:VXjidovSUr9BPgpDiu17TVly0IhBd5PQjGJtJYSti0sRb9KnNNT5YIyb8QUTgPvcMe8apdZ_A49Bcw)
 
-### Category: CRE
+### 🟦 Continual Relation Extraction (CRE)
 
 
 #### 1. Continual Relation Extraction via Sequential Multi-Task Learning
@@ -343,7 +362,7 @@
 - **Platform:** IEEE
 - **link:** [Open paper](https://ieeexplore.ieee.org/abstract/document/10584140)
 
-### Category: KG completeness
+### 🟧 Knowledge Graph Completion
 
 
 #### 1. A Re-evaluation of Knowledge Graph Completion Methods
@@ -489,7 +508,7 @@
 - **Platform:** ACL
 - **link:** [Open paper](https://aclanthology.org/D19-1522/)
 
-### Category: KGC and CRE
+### 🟪 Knowledge Graph Completion + Continual Relation Extraction
 
 
 #### 1. Open-world knowledge graph completion for unseen entities and relations via attentive feature aggregation
@@ -546,10 +565,10 @@
 - **Platform:** AAAI
 - **link:** [Open paper](https://ojs.aaai.org/index.php/AAAI/article/view/20746)
 
-## selected survey
+## 📙 Surveys and reviews
 
 
-### Category: RE
+### 🟥 Relation Extraction (RE)
 
 
 #### 1. Clinical named entity recognition and relation extraction using natural language processing of medical free text: A systematic review
@@ -692,7 +711,7 @@
 - **Work Category:** RE
 - **link:** [Open paper](https://dl.acm.org/doi/full/10.1145/3592601?casa_token=-kbjdR2YFF4AAAAA%3AQDo1hQpwgMRTqc2dSq834NnB0SGoPD0_1U3JRKuDxVnxWhDBeyCeyu5O5cN27nyy-g_kzkN05gU1sQ)
 
-### Category: KG completeness
+### 🟧 Knowledge Graph Completion
 
 
 #### 1. Knowledge Graph Completion: A Review
@@ -716,7 +735,7 @@
 - **Work Category:** KG completeness
 - **link:** [Open paper](https://www.mdpi.com/2227-7390/11/8/1815)
 
-### Category: CRE
+### 🟦 Continual Relation Extraction (CRE)
 
 
 #### 1. Temporal Relation Extraction in Clinical Texts: A Systematic Review
@@ -740,7 +759,7 @@
 - **Work Category:** CRE
 - **link:** [Open paper](https://www.sciencedirect.com/science/article/pii/S1532046420301167)
 
-### Category: CL
+### 🟩 Continual Learning (CL)
 
 
 #### 1. Continual Learning with Neural Networks: A Review
